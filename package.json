@@ -50,18 +50,18 @@
     "eslint": "^7.17.0"
   },
   "dependencies": {
-    "electron-dl": "^3.0.2",
+    "electron-dl": "^3.5.2",
     "electron-is": "^3.0.0",
-    "electron-log": "^4.3.1",
-    "electron-notarize": "^1.0.0",
+    "electron-log": "^4.4.8",
+    "electron-notarize": "^1.2.2",
     "electron-store": "^6.0.1",
-    "electron-updater": "^4.3.5",
+    "electron-updater": "^4.6.5",
     "getos": "^3.2.1",
-    "lodash": "^4.17.20",
-    "open": "^7.3.1",
-    "os-name": "^4.0.0",
+    "lodash": "^4.17.21",
+    "open": "^7.4.2",
+    "os-name": "^4.0.1",
     "raven": "^2.6.4",
-    "snyk": "^1.437.4"
+    "snyk": "^1.1293.0"
   },
   "snyk": true
 }
